@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TodoApp</string>
+    <string name="todo">todo</string>
+
+<!--    Sign In/Up Screen-->
+    <string name="signIn">Sign In</string>
+    <string name="welcomeBack">Welcome Back!</string>
+    <string name="createAccount">Create Account</string>
+    <string name="signUp">Sign Up</string>
+    <string name="emailInput">Email ID</string>
+    <string name="passwordInput">Password</string>
+    <string name="confirmPasswordInput">Confirm Password</string>
+
+    <string name="notRegistered">Not Registered Yet?</string>
+    <string name="alreadyRegistered">Already Registered?</string>
+</resources>
